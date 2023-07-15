@@ -1,0 +1,13 @@
+name: EncryptandDecryptFile
+version: 1.0.0
+description: A sample Dart project
+author: Author
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  crypto: ^3.0.3
+  encrypt: ^5.0.1
+  path: ^1.8.3
+
+
