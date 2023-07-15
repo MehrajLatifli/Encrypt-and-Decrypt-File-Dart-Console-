@@ -1,1 +1,1 @@
-dart compile exe bin/main.dart -o bin/main.exe
+# dart compile exe bin/main.dart -o bin/main.exe
